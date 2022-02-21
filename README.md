@@ -4,7 +4,7 @@
 
 <p align="justify">
 
--  Lâmpada que liga/desliga com toque no botão com efeito  neomorphism css
+-  Landing page  criarda com HTML e CSS 
 
 </p>
 
