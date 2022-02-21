@@ -1,4 +1,4 @@
-# 💡Lâmpada on-off
+# <img src="https://i.ibb.co/DD41zBn/ethereum-2.png" alt="ethereum-2" border="0" height="50" width="50">   NFT-card
 
 ### 🔭 Sobre 
 
@@ -16,7 +16,6 @@
 
 - CSS
 
-- JavaScript
 
 </p>
 
@@ -24,11 +23,10 @@
 
 <p align="center">
 
-<a href="https://walysonmoura.github.io/projeto-cordel/"><img src="https://i.ibb.co/r5qtFPZ/20220117-230523.png" alt="20220117-230523" border="0"></a>
+<a href="https://walysonmoura.github.io/NFT-card/"><img src="https://i.ibb.co/Lr1bqZY/Screenshot-20220220-184223.jpg" alt="Screenshot-20220220-184223" border="0"></a>
 
 ##
 
-<a href="https://walysonmoura.github.io/projeto-cordel/"><img src="https://i.ibb.co/C1KD0zQ/20220117-230445.png" alt="20220117-230445" border="0"></a>
 
 </p>
 
@@ -36,7 +34,7 @@
 
 <p align="justify">
 
--  Para visitar o site basta clicar <a href="https://walysonmoura.github.io/lampada/" target="_blank">AQUI</a>
+-  Para visitar o site basta clicar <a href="https://walysonmoura.github.io/NFT-card/" target="_blank">AQUI</a>
 
 -  ou se preferir basta apontar a câmera do seu celular para o QR CODE abaixo:
 
@@ -44,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://walysonmoura.github.io/lampada/"><img src="https://i.ibb.co/WsSQQ74/frame.png" alt="frame" border="0"></a>
+<a href="https://walysonmoura.github.io/NFT-card/"><img src="https://i.ibb.co/WsSQQ74/frame.png" alt="frame" border="0"></a>
 
 </p>
 
