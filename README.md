@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://walysonmoura.github.io/NFT-card/"><img src="https://i.ibb.co/WsSQQ74/frame.png" alt="frame" border="0"></a>
+<a href="https://walysonmoura.github.io/NFT-card/"><img src="https://i.ibb.co/wJbxxS7/https-walysonmoura-github-io-NFT-card.png" alt="https-walysonmoura-github-io-NFT-card" border="0"></a>
 
 </p>
 
