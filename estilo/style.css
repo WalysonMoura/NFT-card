@@ -150,12 +150,19 @@ body {
 
 	
 
-		     	.l-card{
+		     	
+
+	
+
+		
+				
+} 
+@media screen and (max-width: 1024px) {
+
+														     			     	.c-card{
 
 							 	height: 50vh;
 
 															
 
 			   	}
-				
-} 
