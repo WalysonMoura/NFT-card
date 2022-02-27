@@ -1,12 +1,6 @@
 # <img src="https://i.ibb.co/DD41zBn/ethereum-2.png" alt="ethereum-2" border="0" height="50" width="50">   NFT-card
 
-### 🔭 Sobre 
 
-<p align="justify">
-
--  Landing page  criada com HTML e CSS 
-
-</p>
 
 ### :rocket: Tecnologias
 
@@ -23,7 +17,7 @@
 
 <p align="center">
 
-<a href="https://walysonmoura.github.io/NFT-card/"><img src="https://i.ibb.co/Lr1bqZY/Screenshot-20220220-184223.jpg" alt="Screenshot-20220220-184223" border="0"></a>
+<a href="https://walysonmoura.github.io/NFT-card/"><img src="https://i.ibb.co/cg24vns/Screenshot-20220220-184223-2.jpg" alt="Screenshot-20220220-184223-2" border="0"></a>
 
 ##
 
