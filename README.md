@@ -4,7 +4,7 @@
 
 <p align="justify">
 
--  Landing page  criarda com HTML e CSS 
+-  Landing page  criada com HTML e CSS 
 
 </p>
 
