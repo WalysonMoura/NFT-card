@@ -41,7 +41,8 @@ body {
 }
 
 .c-imagem{
-				height: 10rem;
+				height: 100%;
+					
 				width: 100%;
 } 
 .c-imagem__img{
