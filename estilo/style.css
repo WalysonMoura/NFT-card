@@ -1,0 +1,153 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+:root{
+				--primary1: #0c1c2d;
+				--primary2: #082c53;
+				--primary3: hsl(178, 100%, 50%);
+				--neutral1: #5a81a8;
+				--neutral2: hsl(216, 50%, 16%);				
+				
+				
+				--font-padrao: 'Outfit', sem serifa;
+}
+*{
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+}
+
+body {
+				height: 100vh;
+				width: 100%;
+				font-family: var(--font-padrao);
+				background: var(--primary1);
+				display: grid;
+				place-items: center;
+				padding: 1rem 0;
+			
+}
+
+.l-card{
+				
+				max-width: 350px;
+				
+				padding: 1.5rem;
+				background: var(--primary2);
+				border-radius:  10px;
+				display: flex;
+				align-items: center;
+				flex-direction: column;
+				
+				
+		
+}
+
+.c-imagem{
+				
+				width: 100%;
+				
+} 
+.c-imagem__img{
+		 width: 100%; 
+
+				border-radius: 10px;
+}
+ @media (max-width: 768px) {
+	.l-card{
+		max-width: 300px;
+	
+	}
+ }
+
+.c-content{
+				display: flex;
+				flex-direction: column;
+			
+				gap: 30px;
+				
+}
+
+.c-content__intro{
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+				align-item: center;
+				gap: 20px;
+}
+.c-content__title{
+				margin-top: 30px;
+				font-size: 20px;
+				font-weight: 600;
+				color: white;
+}
+
+.c-content__info{
+				color: var(--neutral1);
+				font-size: 18px;
+				font-weight: 400;
+				line-height: 20px;
+}
+.c-content__time{
+				display: flex;
+				justify-content: space-between;
+				align-item: center;
+				
+}
+.c-content__eth{
+				color: var(--primary3);
+				font-weight: 600;
+}
+.c-content__days{
+				color: var(--neutral1);
+				font-size: 18px;
+				font-weight: 400;
+}
+.c-content__creation{
+				border-top: 1px solid #b5b5b5;
+				display: flex;
+				justify-content: flex-start;
+				align-items: center;
+				gap: 15px;
+				padding-top: 15px;
+				
+}
+
+.c-content__icon{
+				height: 40px;
+				width: 40px;
+}
+.c-content__foto{
+				
+				width: 100%;				
+}
+
+.c-content__personal{
+				color: var(--neutral1);
+				font-size: 18px;
+				font-weight: 300;
+}
+.c-content__strong{
+				color: white;
+				font-size: 18px;
+				font-weight: 400;
+				padding-left: 5px;
+}
+.c-footer{
+				font-size: 11px; 
+				text-align: center;
+				color: var(--neutral1);				
+				font-weight: 300;
+}
+
+.c-footer__link{
+				text-decoration: none;
+				color: white;	
+}
+.c-footer__link:hover{
+				color: hsl(228, 45%, 44%);;
+				text-decoration: underline;
+}
+
+
+
